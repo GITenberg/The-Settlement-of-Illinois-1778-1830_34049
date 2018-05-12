@@ -1,0 +1,26 @@
+_repo: The-Settlement-of-Illinois-1778-1830_34049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boggess, Arthur Clinton
+    alias: Boggess, Arthur C. (Arthur Clinton)
+    gutenberg_agent_id: '36708'
+    url: http://www.gutenberg.org/2009/agents/36708
+description: ''
+gutenberg_issued: '2010-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34049'
+  lccn: 09012041
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F516'
+- !lcsh 'Illinois -- History -- 1778-1865'
+title: The Settlement of Illinois, 1778-1830
+url: http://www.gutenberg.org/ebooks/34049
